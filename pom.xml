@@ -7,7 +7,13 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>sph Maven Webapp</name>
   <url>http://maven.apache.org</url>
-  
+  <dependencies>
+    <dependency>
+      <groupId>org.jodd</groupId>
+      <artifactId>jodd-all</artifactId>
+      <version>3.8.1</version>
+    </dependency>
+  </dependencies>
   <build>
     <finalName>youzan-helper</finalName>
   </build>
