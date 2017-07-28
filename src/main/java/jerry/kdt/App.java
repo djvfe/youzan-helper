@@ -1,4 +1,4 @@
-package jerry.youzan;
+package jerry.kdt;
 
 /**
  * Hello world!
